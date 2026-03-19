@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently working on Smart Tutor RAG based application 
+Hey there! I'm Krashanu 👋  
+
+🎓 CSE student with a growing passion for development  
+💡 I enjoy turning ideas into working projects  
+
+🔨 Currently working on:
+- Improving my Web Development skills  
+- Learning Backend (Node.js & Databases)  
+
+🚀 Long-term goal:
+To become a skilled developer and land a great tech job  
+
+📌 Always learning. Always building.
 
 
 ## 🌐 Socials:
